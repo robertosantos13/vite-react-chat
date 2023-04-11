@@ -6,22 +6,22 @@
 - `Funcionalidade 1`: Registrar e Logar usando Firebase
 - `Funcionalidade 2`: Criar usuários e trocar mensagens
 
-## Project create
+## Criar projeto
 ```
 npm create vite@latest
 ```
 
-## Project open folder
+## Abrir o pasta do projeto
 ```
-cd project name
+cd nome do projeto
 ```
 
-## Project setup
+## Instalar os pacotes
 ```
 npm install
 ```
 
-### Compiles and hot-reloads for development
+### Rodar o projeto em dev
 ```
 npm run dev
 ```
